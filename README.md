@@ -2,6 +2,9 @@
 
 Amaya's Auspicious Alchemy is a React potion-shop application with an Express/SQLite backend.
 
+## Limitation
+there are no known limitations
+
 ## Returning users
 run **npm install** to install dependencies, then run **npm run dev** to start the application.
 
